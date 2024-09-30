@@ -1,4 +1,4 @@
-# etch
+# etch-a-sketch
 
 [Visit Site](etch-a-sketch-gpnxymru5-pranav-raghavans-projects.vercel.app)
 
